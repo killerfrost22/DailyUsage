@@ -1,0 +1,48 @@
+计划表
+
+Daily
+1. 刷牙 *2
+2. Ocaml project ( Nov.20)
+3. WMUC studio project (Nov.31)
+4. Resume revision
+5. Github push/pull revsiion 
+6. Work(4 hours)
+7. Study (6 hours)
+8. Algorithm study
+9. swimming/running
+10. 最晚9 点起床 12点睡
+11. leetcode
+12. Personal webpage
+13. VPS
+14. Stock check 9AM
+15. promotion quiz
+16. Daily Cantonese 
+17。 LAtex resume
+18. 
+
+Urgent
+1. Ocaml
+2. Disc 160 
+3. MATH440 Matlab (Dec.3)
+4. MATH Double plan
+5. 
+6.
+
+Casual
+1. Hospital (Nov.24) Flu shot + urgent care+ routine check
+2. Grocery (Nov.24)
+3. New York (Dec.20)
+4.
+5.
+6.
+7.
+
+
+Exam Dates:
+1. MATH440 (Dec.16 1-3PM)
+2. OCaml (Dec.16 4-6PM)
+3. Algorithm(Dec.18 4-6)
+4. React140 ()
+5. Advance calc 460(Dec.16-Dec.20)
+6. MATH440 (Dec.7)
+7。 
