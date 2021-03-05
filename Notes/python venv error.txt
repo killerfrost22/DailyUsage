@@ -1,0 +1,3 @@
+Windows Powershell – “Running scripts is disabled on this system”
+
+Run powershell as admin "set-executionpolicy remotesigned"
